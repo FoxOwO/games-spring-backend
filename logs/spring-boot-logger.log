@@ -1,0 +1,6 @@
+2020-10-20 11:28:54,770 TRACE be.smal.games.services.CategoryService [http-nio-8080-exec-10] saving category: Category{id=0, category_name='Category Name'} to the database
+2020-10-20 11:29:01,006 TRACE be.smal.games.services.CategoryService [http-nio-8080-exec-4] removing category with id: 64 from the database
+2020-10-20 11:46:33,847 TRACE be.smal.games.services.CategoryService [http-nio-8080-exec-1] saving category: Category{id=0, category_name='Category Name'} to the database
+2020-10-20 11:46:42,455 TRACE be.smal.games.services.CategoryService [http-nio-8080-exec-5] removing category with id: 65 from the database
+2020-10-20 16:58:34,942 TRACE be.smal.games.services.CategoryService [http-nio-8080-exec-4] saving category: Category{id=0, category_name='newCategory'} to the database
+2020-10-20 16:58:52,029 TRACE be.smal.games.services.CategoryService [http-nio-8080-exec-7] removing category with id: 29 from the database

@@ -1,0 +1,13 @@
+2020-10-19 22:19:46,881 TRACE be.smal.games.services.CategoryService [http-nio-8080-exec-8] saving category: Category{id=0, category_name='null'} to the database
+2020-10-19 22:20:59,133 TRACE be.smal.games.services.CategoryService [http-nio-8080-exec-9] saving category: Category{id=0, category_name='null'} to the database
+2020-10-19 22:21:29,613 TRACE be.smal.games.services.CategoryService [http-nio-8080-exec-10] saving category: Category{id=0, category_name='null'} to the database
+2020-10-19 22:22:29,618 TRACE be.smal.games.services.CategoryService [http-nio-8080-exec-1] saving category: Category{id=0, category_name='Category Name'} to the database
+2020-10-19 22:41:10,528 TRACE be.smal.games.services.CategoryService [http-nio-8080-exec-4] saving category: Category{id=0, category_name='test'} to the database
+2020-10-19 22:42:18,416 TRACE be.smal.games.services.CategoryService [http-nio-8080-exec-6] saving category: Category{id=0, category_name='Category Name2'} to the database
+2020-10-19 22:42:34,809 TRACE be.smal.games.services.CategoryService [http-nio-8080-exec-9] removing category with id: 61 from the database
+2020-10-19 22:43:40,852 TRACE be.smal.games.services.CategoryService [http-nio-8080-exec-5] saving category: Category{id=0, category_name='Category Nametest'} to the database
+2020-10-19 22:43:43,591 TRACE be.smal.games.services.CategoryService [http-nio-8080-exec-8] removing category with id: 62 from the database
+2020-10-19 22:44:47,101 TRACE be.smal.games.services.CategoryService [http-nio-8080-exec-3] removing category with id: 60 from the database
+2020-10-19 22:44:49,258 TRACE be.smal.games.services.CategoryService [http-nio-8080-exec-5] removing category with id: 59 from the database
+2020-10-19 22:45:47,936 TRACE be.smal.games.services.CategoryService [http-nio-8080-exec-10] saving category: Category{id=0, category_name='Category Name'} to the database
+2020-10-19 22:45:51,873 TRACE be.smal.games.services.CategoryService [http-nio-8080-exec-4] removing category with id: 63 from the database
